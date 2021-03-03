@@ -1,0 +1,1 @@
+﻿--Cô import file skincare.sql trong folder database của em và đặt tên database là skincare ạ
